@@ -5,20 +5,11 @@
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
   </a>
   𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺, &lt;Nguyen Thi Kim Yen/&gt;!
-  <a target="_blank">
-    <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-  </a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-</h1>
-<h3 align="center">Developer from Vietnam </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kimichan08" alt="https://github.com/Kimichan08" /> <img src="https://badges.pufler.dev/repos/Kimichan08" alt=""/></p>
  <br>
+ 🌱
 
-- 🌱 I’m currently learning **Backend**
-
-- 🌱 I’m currently learning Web Development, ReactJS, Angular, Laravel...
-- ✍ I'm a student of: [Bach Khoa - Aptech ](https://bachkhoa-aptech.edu.vn/) (BKAP)
 
 <h2> Contact for work </h2>
 <p align="center">
