@@ -8,26 +8,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kimichan08" alt="https://github.com/Kimichan08" /> <img src="https://badges.pufler.dev/repos/Kimichan08" alt=""/></p>
  <br>
- 🌱
+𓈒 * ✿ ﾟ･ * ｡･ ✨ 🌷 ✨｡𖦹˚. ʚїɞ 𓂃
 
 
-<h2> Contact for work </h2>
-<p align="center">
-
-  </a>
-  <a href="https://www.facebook.com/choanhh.munn.3" target="_blank" alt="Facebook">
-  <img src="https://img.icons8.com/fluency/65/000000/facebook.png"/>
-  </a>
-  <a>
-  <a href="https://zalo.me/0987218885" target="_blank" alt="Zalo">
-  <img src="https://img.icons8.com/color/65/000000/zalo.png"/>
-  </a>
-  <a href="https://github.com/Kimichan08" alt="Github" >
-  <img src="https://img.icons8.com/3d-fluency/65/000000/github.png"/>
-  </a> 
-  <a href="mailto:yenn0750@gmail.com" alt="Email"  target="_blank">
-  <img src="https://img.icons8.com/3d-fluency/65/000000/gmail.png"/>
-<!--🦶FOOTER--> 
-</p>
-
-<hr>
